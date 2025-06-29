@@ -1,2 +1,2 @@
-# Credit-Scoring-
+# Credit-Scoring
 Credit Scoring Business Understanding
