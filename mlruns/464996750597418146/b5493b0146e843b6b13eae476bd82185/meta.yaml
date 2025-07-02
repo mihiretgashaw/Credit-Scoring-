@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Desktop/10%20Academy/week%205/mlruns/464996750597418146/b5493b0146e843b6b13eae476bd82185/artifacts
+end_time: 1751479046030
+entry_point_name: ''
+experiment_id: '464996750597418146'
+lifecycle_stage: active
+run_id: b5493b0146e843b6b13eae476bd82185
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751479011085
+status: 3
+tags: []
+user_id: pc

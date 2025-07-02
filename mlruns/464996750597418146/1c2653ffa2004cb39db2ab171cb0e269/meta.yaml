@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pc/Desktop/10%20Academy/week%205/mlruns/464996750597418146/1c2653ffa2004cb39db2ab171cb0e269/artifacts
+end_time: 1751479517743
+entry_point_name: ''
+experiment_id: '464996750597418146'
+lifecycle_stage: active
+run_id: 1c2653ffa2004cb39db2ab171cb0e269
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751479353554
+status: 3
+tags: []
+user_id: pc
